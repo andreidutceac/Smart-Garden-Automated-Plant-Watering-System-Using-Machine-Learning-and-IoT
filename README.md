@@ -41,3 +41,7 @@ Based on the output of your machine learning model, send commands back to the Ar
 -	Breadboard and Jumper Wires: For prototyping the connections without soldering.
 -	Power Sources: For both Arduino and Raspberry Pi, plus any additional components like the water pump for the actual watering mechanism.
 
+![20240205_212403](https://github.com/andreidutceac/Smart-Garden-Automated-Plant-Watering-System-Using-Machine-Learning-and-IoT/assets/117718437/485100a1-e8cc-4545-abcf-201fb0de8f86)
+![20240205_212533](https:![20240207_174105](https://github.com/andreidutceac/Smart-Garden-Automated-Plant-Watering-System-Using-Machine-Learning-and-IoT/assets/117718437/b0e9be66-b281-4371-ae2e-1d6404a69245)
+![20240207_174105](https://github.com/andreidutceac/Smart-Garden-Automated-Plant-Watering-System-Using-Machine-Learning-and-IoT/assets/117718437/a053cc08-ecfb-4a7e-a029-2bb078c80a41)
+![20240207_174235](https://github.com/andreidutceac/Smart-Garden-Automated-Plant-Watering-System-Using-Machine-Learning-and-IoT/assets/117718437/2943a76a-739a-41c5-9217-e7b4604d2527)

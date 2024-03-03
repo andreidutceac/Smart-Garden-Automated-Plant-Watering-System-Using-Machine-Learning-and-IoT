@@ -41,6 +41,20 @@ Based on the output of your machine learning model, send commands back to the Ar
 -	Breadboard and Jumper Wires: For prototyping the connections without soldering.
 -	Power Sources: For both Arduino and Raspberry Pi, plus any additional components like the water pump for the actual watering mechanism.
 
+## Raspberry Pi Pinout
+![R_Pi_pinout](https://github.com/andreidutceac/Smart-Garden-Automated-Plant-Watering-System-Using-Machine-Learning-and-IoT/assets/117718437/679544a3-926f-4852-b657-74cd470adeb6)
+
+## To wire your NRF24L01+ Wireless Receiver to your Raspberry Pi, connect the following pins:
+- Connect the VCC pin to 3.3 Volts (Pin 1)
+- Connect the GND pin to ground (GND) (Pin 6)
+- Connect the CE pin to Raspberry GPIO 22
+- Connect the CSN pin to Raspberry GPIO 8
+- Connect the SCK pin to Raspberry GPIO 11
+- Connect the MOSI pin to Raspberry GPIO 10
+- Connect the MISO pin to Raspberry GPIO 09
+![R_Pi_NRF24](https://github.com/andreidutceac/Smart-Garden-Automated-Plant-Watering-System-Using-Machine-Learning-and-IoT/assets/117718437/307af26d-0bb9-4201-a9e1-033fb5abb2e7)
+
+
 ![20240205_212403](https://github.com/andreidutceac/Smart-Garden-Automated-Plant-Watering-System-Using-Machine-Learning-and-IoT/assets/117718437/485100a1-e8cc-4545-abcf-201fb0de8f86)
 ![20240205_212533](https:![20240207_174105](https://github.com/andreidutceac/Smart-Garden-Automated-Plant-Watering-System-Using-Machine-Learning-and-IoT/assets/117718437/b0e9be66-b281-4371-ae2e-1d6404a69245)
 ![20240207_174105](https://github.com/andreidutceac/Smart-Garden-Automated-Plant-Watering-System-Using-Machine-Learning-and-IoT/assets/117718437/a053cc08-ecfb-4a7e-a029-2bb078c80a41)
